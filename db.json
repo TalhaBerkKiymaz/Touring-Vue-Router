@@ -2,13 +2,13 @@
   "autos": [
     {
       "id": 123,
-      "merk": "",
-      "model": "",
+      "merk": "Dodge",
+      "model": "Ram 1500",
       "img": "https://media-cdn.vwe.nl/Images/86368331?templateid=0&overlay=nap%2Crdw&bgc=f5f5f5", 
-      "carrosserie": "",
-      "brandstof": "",
-      "bouwjaar": "January 28, 2022",
-      "prijs": "",
+      "carrosserie": "Pick Up",
+      "brandstof": "Benzine",
+      "bouwjaar": "November 09, 2015",
+      "prijs": "€10000",
     },
     {
       "id": 456,
